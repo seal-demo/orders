@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: orders
+  annotations:
+    github.com/project-slug: seal-demo/orders
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-b
